@@ -1,0 +1,10 @@
+diff a/test.txt b/test.txt	(rejected hunks)
+@@ -2,4 +2,5 @@
+ hi
+ how ary you
+ fine thankyou
+-shazi
+\ No newline at end of file
++shazi
++haha
+\ No newline at end of file
